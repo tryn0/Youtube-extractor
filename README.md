@@ -11,3 +11,6 @@ $ py filename.py format URL-Video
 ```
 > Note: `format` is optional (video/audio), audio by default if only URL-Video
 To extract as video it may take because convertion from .webm to .mp4/.mwk/etc
+
+---
+**_Educational purposes only_**
